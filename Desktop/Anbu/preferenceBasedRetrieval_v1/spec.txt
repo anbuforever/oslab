@@ -1,0 +1,3 @@
+Manufacturer&Model&Price ($)&Format&Resolution (M Pixels)&Optical Zoom (X)&Digital Zoom (X)&Weight (grams)&Storage Type&Storage Included (MB)
+Nominal&Nominal&Numeric&Nominal&Numeric&Numeric&Numeric&Numeric&Nominal&Numeric
+LIB&MIB&MIB&MIB&LIB&MIB
